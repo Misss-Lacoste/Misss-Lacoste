@@ -1,6 +1,6 @@
 ## Hi there ☺️
 
-🌱 I'm HSE SE student and I’m currently learning computer science :)
+🌱 I'm HSE FCS SE student and I’m currently learning computer science :)
 
 ```cpp
 #include <iostream>
